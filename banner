@@ -1,0 +1,25 @@
+
+   ____  __      ___ __  _ __  _ __ __  __
+  |    | \ \ /\ / / '_ \| '_ \| '_ \\ \/ /
+  |~ / |  \ V  V /| |_) | |_) | | | |>  <   
+  |____|   \_/\_/ | .__/| .__/|_| |_/_/\_\
+                  |_|   |_|   
+                            welcome to the wppnx tilde/pubnix
+
+This is hosted on a raspberry pi zero w, so i guess you could call it
+a dedi :)
+
+if you are wondering what the (pink) rectange in the logo is, it is
+the case of the pi zero, since that was the only color the rockville
+science center had in their 3d printer lol
+
+there is not much here at the moment, but feel free to create things
+or suggest programs to be installed!
+
+to save your session, both tmux and byobu are installed
+
+to share text with people, go on the irc server (localhost). irssi and weechat
+are installed, but request your preferred client to be installed.
+or use mutt (neomutt) to send local emails (username@wppnx)
+
+
